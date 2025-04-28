@@ -2,6 +2,8 @@
 
 📲 Các Tệp Cần Thiết`tuỳ theo thiết bị bạn có thể tải tệp cho máy tính yêu cầu windows 64bit để cài đặt`
 
+[Trang Hỗ Trợ Của Apple](https://support.apple.com/vi-vn/docs)
+
 [Tải về iTunes cho Windows ](https://support.apple.com/vi-vn/118290)`Từ trang web chính chủ của Apple`
 
 [Tải về iTunes cho Windows 7](https://support.apple.com/en-vn/106379)`Apple link`
