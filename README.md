@@ -1,6 +1,6 @@
 ## Dành cho iPhone và các thiết bị chạy hệ điều hành iOS
 
-📲 Các Tệp Cần Thiết`tuỳ theo thiết bị bạn có thể tải tệp cho máy tính yêu cầu windows 64bit để cài đặt`
+#📲 Các Tệp Cần Thiết`tuỳ theo thiết bị bạn có thể tải tệp cho máy tính yêu cầu windows 64bit để cài đặt`
 
 [Trang Hỗ Trợ Của Apple](https://support.apple.com/vi-vn/docs)`Web Hỗ Trợ Chính Của Apple Bên Trong Bao Gồm Cả Hướng Dẫn Sử Dụng Từng Dòng Sản Phẩm , Phần Mềm ...`
 
