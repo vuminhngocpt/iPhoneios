@@ -11,7 +11,7 @@
 
 [iTunes 12.10.11 for Windows (Windows 64 bit)](https://download.com.vn/download/itunes-5385?linkid=14532) `Từ download.com.vn `
 
-### Tải Os Thủ Công
+### Tải Phần Mềm Hệ Thống Cho iPhone , iPAd ...
 
 🥰 [ Tải OS từ ipsw.me ](https://ipsw.me)
 
