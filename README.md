@@ -10,6 +10,8 @@
 
 [iTunes 12.10.11 for Windows (Windows 64 bit)](https://download.com.vn/download/itunes-5385?linkid=14532) `Từ download.com.vn `
 
+### Tải Os Thủ Công
+
 [trang tải ipsw tệp hệ thống](https://ipsw.me)`từ https://ipsw.me`
 
 
