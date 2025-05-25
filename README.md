@@ -18,5 +18,8 @@
 
 🥰 [Tải OS từ ipsw.vn](https://ipsw.vn)
 
+### Công cụ chạy lại os thủ công
+
+🥰 [Tải 3uTool](https://m.3u.com)
 
     ©️2025 Vu Minh Ngoc
