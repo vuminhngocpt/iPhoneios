@@ -19,7 +19,7 @@
 
 🥰 [Tải OS từ ipsw.vn](https://ipsw.vn)
 
-### Công cụ chạy lại os thủ công
+### Công Cụ Chạy Lại iOS Thủ Công
 
 🥰 [Tải 3uTool](https://m.3u.com)
 
