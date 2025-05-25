@@ -12,7 +12,8 @@
 
 ### Tải Os Thủ Công
 
-[trang tải ipsw tệp hệ thống](https://ipsw.me)`từ https://ipsw.me`
+🥰 [tải os ipsw.me ](https://ipsw.me)
 
+🥰 [ Tải Os từ ipsw.dev](https://ipsw.dev)
 
     ©️2025 Vu Minh Ngoc
