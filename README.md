@@ -27,4 +27,8 @@
 
 🥰 [Tải Về 3uTool link dự phòng](https://taimienphi.vn/download-3utools-24163)
 
+### Máy MAC
+
+🤩 [ Tải Về MAC OS](https://archive.org/details/macos_iso)
+
     ©️2025 Vu Minh Ngoc
