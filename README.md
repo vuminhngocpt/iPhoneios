@@ -27,7 +27,7 @@
 
 🥰 [Tải Về 3uTool link dự phòng](https://taimienphi.vn/download-3utools-24163)
 
-### Máy MAC
+### Dành Cho Máy Mac , Mac OS
 
 🤩 [ Tải Về MAC OS ](https://maclife.io/category/mac-application/bo-cai-dat-mac)
 
