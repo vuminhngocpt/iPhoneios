@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/7950f067-0847-4290-88b6-c8b013a44020)## Dành cho iPhone và các thiết bị chạy hệ điều hành iOS
+![image](https://github.com/user-attachments/assets/7950f067-0847-4290-88b6-c8b013a44020)
+## Dành cho iPhone và các thiết bị chạy hệ điều hành iOS
 
 #📲 Các Tệp Cần Thiết`tuỳ theo thiết bị bạn có thể tải tệp cho máy tính yêu cầu windows 64bit để cài đặt`
 
