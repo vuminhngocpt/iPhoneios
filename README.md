@@ -1,13 +1,13 @@
 ![image](https://github.com/user-attachments/assets/7950f067-0847-4290-88b6-c8b013a44020)
 ## Dành cho iPhone và các thiết bị chạy hệ điều hành iOS
 
-#📲 Các Tệp Cần Thiết`tuỳ theo thiết bị bạn có thể tải tệp cho máy tính yêu cầu windows 64bit để cài đặt`
+### Trang Hỗ Trợ Chính Của Apple Bao Gồm Cách Chạy Lại Phần Mềm Hệ Thống Và Hướng Dẫn Sử Dụng ...
 
-[Trang Hỗ Trợ Của Apple](https://support.apple.com/vi-vn/docs)`Web Hỗ Trợ Chính Của Apple Bên Trong Bao Gồm Cả Hướng Dẫn Sử Dụng Từng Dòng Sản Phẩm , Phần Mềm ...`
+[Trang Hỗ Trợ Của Apple](https://support.apple.com/vi-vn/docs)
 
-[Tải về iTunes cho Windows ](https://support.apple.com/vi-vn/118290)`Từ Apple`
+[Tải về iTunes cho Windows ](https://support.apple.com/vi-vn/118290)
 
-[Tải về iTunes cho Windows 7](https://support.apple.com/en-vn/106379)`Từ Apple`
+[Tải về iTunes cho Windows 7](https://support.apple.com/en-vn/106379)
 
 [iTunes 12.10.11 for Windows (Windows 64 bit)](https://download.com.vn/download/itunes-5385?linkid=14532) `Từ download.com.vn `
 
